@@ -16,8 +16,6 @@ except FileNotFoundError:
 config_path = appctxt.get_resource('vox-256.yaml')
 #endregion imports
 
-##EEEE
-
 class ApplicationWindow(QtWidgets.QMainWindow, Ui_MainWindow):
     '''The main window. Instantiated once.'''
     def __init__(self):
