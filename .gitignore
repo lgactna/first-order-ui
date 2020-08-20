@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+src/main/resources/base/vox-adv-cpk.pth.tar
+src/main/resources/base/vox-cpk.pth.tar
